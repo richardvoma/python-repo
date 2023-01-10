@@ -22,3 +22,8 @@ print(z)
 print(type(z))
 print(z[2])
 print(z[5])
+l = ["boy", "man", "woman"]
+print(l)
+print(type(l))
+print(l[0])
+print(l[1])
