@@ -1,0 +1,12 @@
+num = 200, 300
+# conditions:keep printing numbers between 100 and 500
+
+while True:
+
+    num = (input("please enter the the value of  num between 100 and 500:"))
+
+    print("num that is greater than or equall to 100:")
+
+else:
+
+    print("num that is not between 100 and 500:")
